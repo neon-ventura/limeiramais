@@ -1,3 +1,14 @@
 {
- "revistas": []
+ "revistas": [
+  {
+   "id": "teste-automatico-edicao-99-wtku",
+   "titulo": "Teste automatico Edicao 99",
+   "edicao": "Teste",
+   "data": "2026-09-17",
+   "partes": 1,
+   "tamanho": 1656850,
+   "paginas": 10,
+   "capa": "uploads/revistas/teste-automatico-edicao-99-wtku/capa.jpg"
+  }
+ ]
 }

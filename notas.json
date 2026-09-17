@@ -1,0 +1,16 @@
+{
+ "notas": [
+  {
+   "id": "nota-de-teste-automatico-4k6iw",
+   "titulo": "Nota de teste automatico",
+   "cat": "eventos",
+   "col": "beatriz-santos",
+   "data": "2026-09-17",
+   "resumo": "Resumo de teste.",
+   "texto": "Primeiro paragrafo.\n\nSegundo paragrafo.",
+   "imagem": "uploads/notas/mu5vrf45.jpg",
+   "publicado": true,
+   "criado": "2026-09-17T18:45:01.984Z"
+  }
+ ]
+}

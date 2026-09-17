@@ -1,3 +1,16 @@
 {
- "notas": []
+ "notas": [
+  {
+   "id": "nota-de-teste-automatico-d2yar",
+   "titulo": "Nota de teste automatico",
+   "cat": "eventos",
+   "col": "beatriz-santos",
+   "data": "2026-09-17",
+   "resumo": "Resumo de teste.",
+   "texto": "Primeiro paragrafo.\n\nSegundo paragrafo.",
+   "imagem": "uploads/notas/mu5w2aob.jpg",
+   "publicado": true,
+   "criado": "2026-09-17T18:53:29.665Z"
+  }
+ ]
 }
